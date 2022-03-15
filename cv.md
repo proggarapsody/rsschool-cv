@@ -1,12 +1,23 @@
-#Aleksey Klimenko  
-##JavaScript Developer
-###Saint-Petersburg, Russia
+<div align="center">
+<img src="ava1.jpg" alt="avatar" width="200"/> 
+<h1>Aleksey Klimenko</h1> 
+<h3>JavaScript Developer</h3>
+</div>
+    
 
+#### Saint-Petersburg, Russia
+
+#### Education
+I am a fourth year student at The Bonch-Bruevich Saint Petersburg State University of Telecommunications. Bachelor degree - IT specialist.  
+I have a few Cisco networking academy certificates.  
+
+
+#### About me
 I develop applications on React and sites on native HTML, JS and CSS.  
 Also, I have experience with C++, C#, and Java.  
-I tried work with Java Spring framework and C# ASP.Net entity framework with Blazor Webassembly.  
-I am a fourth year student at The Bonch-Bruevich Saint Petersburg State University of Telecommunications. Bachelor degree - IT specialist.  
-I have a few Cisco networking academy certificates.
+I tried work with Java Spring framework and C# ASP.NET entity framework with Blazor Webassembly. 
+
+
 
 # 💻Tech stack
 
@@ -18,4 +29,4 @@ I have a few Cisco networking academy certificates.
 
 # My Socials
 
-> [![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=codepen&logoColor=ffffff)](https://codepen.io/AlekSSey) [![Codewars](https://img.shields.io/badge/-Codewars-222222?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/AlekSSeyKlimenko)
+> [![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=codepen&logoColor=ffffff)](https://codepen.io/AlekSSey) [![Codewars](https://img.shields.io/badge/-Codewars-222222?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/AlekSSeyKlimenko) [![HH.ru](https://img.shields.io/badge/-HH.ru-222222?style=for-the-badge&logo=hh.ru&logoColor=B1361E)](https://www.codewars.com/users/AlekSSeyKlimenko)
