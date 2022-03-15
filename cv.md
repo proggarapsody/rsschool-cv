@@ -4,7 +4,6 @@
 <h3>JavaScript Developer</h3>
 </div>
 
-
 #### Saint-Petersburg, Russia
 
 #### Education
@@ -28,4 +27,4 @@ I tried work with Java Spring framework and C# ASP.NET entity framework with Bla
 
 # My Socials
 
-> [![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=codepen&logoColor=ffffff)](https://codepen.io/AlekSSey) [![Codewars](https://img.shields.io/badge/-Codewars-222222?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/AlekSSeyKlimenko) [![HH.ru](https://img.shields.io/badge/-my_resume-222222?style=for-the-badge&logo=circle&logoColor=ffffff)](https://www.codewars.com/users/AlekSSeyKlimenko)
+> [![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=codepen&logoColor=ffffff)](https://codepen.io/AlekSSey) [![Codewars](https://img.shields.io/badge/-Codewars-222222?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/AlekSSeyKlimenko) [![HH.ru](https://img.shields.io/badge/-my_resume-222222?style=for-the-badge&logo=circle&logoColor=ffffff)](https://github.com/proggarapsody/rsschool-cv/blob/gh-pages/resume.pdf)
