@@ -1,1 +1,1 @@
-https://proggarapsody.github.io/rsschool-cv/cv
+https://proggarapsody.github.io/rsschool-cv/
